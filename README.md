@@ -138,17 +138,17 @@ Moving forward, we plan to integrate this finalized model into our ShadeSense Li
 Excitement surrounds the prospect of observing the model's progression in real-world scenarios and its adaptability to a diverse range of user-generated inputs. This iterative approach ensures that our app evolves with user interactions, delivering accurate and reliable results for lipstick shade identification. We look forward to the app's continued development, with a keen eye on user feedback and data augmentation to propel its performance to new heights.
 
 
-![](https://github.com/ginaguerin/ShadeSense_Lipstick_Shade_Identifier_App/blob/master/logos/4girls.jpeg?raw=true)
+![Bottom Logo](https://github.com/ginaguerin/ShadeSense_Lipstick_Shade_Detection_App_Using_CNN/blob/master/readme%20images/Bottom%20Logo.jpeg?raw=true)
 
 # <b> <span style="color: hotpink;"> Repository Directory #
 
 ```bash
 ├── Slides                  <- Project Powerpoint Presentation 
 ├── Images                  <- Original & Annotatted images used in this project
-├── Logos                   <- Logos created using DALL·E 3
+├── Readme Images                   <- Logos created using DALL·E 3 and example photos of annotated images
 ├── .gitignore              <- Checkpoints & Models
 ├── Master Notebook         <- Notebook containing model tuning and analysis
 ├── README.md               <- Contains README file
-└── ShadeSense.py           <- Creation of CNN application
-
+├── ShadeSense.py           <- Creation of CNN application
+└── feedback_log.txt        <- Feedback log containing positive or negative results of app predictions
 ```
