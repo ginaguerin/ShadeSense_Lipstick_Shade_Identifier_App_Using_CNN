@@ -145,7 +145,7 @@ Excitement surrounds the prospect of observing the model's progression in real-w
 ```bash
 ├── Slides                  <- Project Powerpoint Presentation 
 ├── Images                  <- Original & Annotatted images used in this project
-├── Readme Images                   <- Logos created using DALL·E 3 and example photos of annotated images
+├── Readme Images           <- Logos created using DALL·E 3 and example photos of annotated images
 ├── .gitignore              <- Checkpoints & Models
 ├── Master Notebook         <- Notebook containing model tuning and analysis
 ├── README.md               <- Contains README file
