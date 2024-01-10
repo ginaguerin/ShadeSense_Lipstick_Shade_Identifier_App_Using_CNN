@@ -234,10 +234,10 @@ def write_feedback(feedback):
         log_file.write(feedback + "\n")
 
 
-# Placeholder for the actual prediction (replace this with your model prediction logic)
+# Placeholder for the actual prediction 
 # For demonstration purposes, using a list of possible shades
 possible_shades = ["Crème D'Nude", "Honey Love", "Lasting Passion", "None", "Ruby Woo", "Stone", "Whirl"]
-predicted_shade_index = 4  # Index representing the initial prediction, e.g., "Ruby Woo"
+predicted_shade_index = 4  # Index representing the initial prediction
 predicted_shade = possible_shades[predicted_shade_index]
 
 
