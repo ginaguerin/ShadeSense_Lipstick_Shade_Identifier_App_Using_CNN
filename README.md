@@ -1,7 +1,7 @@
 # <center> <b> <span style="color: hotpink;">  ShadeSense </center> #
 <center>
 
-![](https://github.com/ginaguerin/ShadeSense_Lipstick_Shade_Identifier_App/blob/master/logos/logo3.2.jpeg?raw=true)
+![](https://github.com/ginaguerin/ShadeSense_Lipstick_Shade_Detection_App_Using_CNN/blob/master/readme%20images/main.jpeg?raw=true)
 </center>
 
 ## <u> Concept: </u> ##
@@ -13,6 +13,8 @@
 - In its initial phase, ShadeSense will begin with a curated selection from the renowned makeup brand, MAC Cosmetics. This curated collection consists of five distinct lipstick shades, serving as a starting point for the app's development. As ShadeSense evolves, it will expand its library to encompass a diverse array of lipstick shades from various brands, further enhancing its capabilities.
 
 ## Dataset Overview: ##
+
+![example1](https://github.com/ginaguerin/ShadeSense_Lipstick_Shade_Detection_App_Using_CNN/blob/master/readme%20images/example1.JPG?raw=true)![example2](https://github.com/ginaguerin/ShadeSense_Lipstick_Shade_Detection_App_Using_CNN/blob/master/readme%20images/example2.JPG?raw=true)
 
 - **Images:** The dataset comprises original resized images in JPG format. These images are the input data for training the lipstick shade identification model.
 
@@ -99,15 +101,15 @@ The classification report provides insights into the model's capability to class
 ## Summary of Final Model with Lowered Dropout Rate ##
 
 ### Model Architecture and Training Dynamics: ###
-The model, incorporating VGG16 with a lowered dropout rate of 0.38, demonstrates improved stability and generalization during an 8-epoch training regimen:
+The model, incorporating VGG16 with a lowered dropout rate of 0.38, demonstrates improved stability and generalization during a 10-epoch training regimen:
 
 ## Interpretation of Model Results ##
 
-- **Epoch 1/8:**
+- **Epoch 1/10:**
   - Training Loss: 9.11, Training Accuracy: 18.86%
   - Validation Loss: 3.43, Validation Accuracy: 38.64%
 
-- **Epoch 8/8:**
+- **Epoch 10/10:**
   - Training Loss: 0.43, Training Accuracy: 81.82%
   - Validation Loss: 0.43, Validation Accuracy: 81.82%
 
