@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized lipsticks</folder>
+	<filename>IMG_4951.JPG</filename>
+	<path>/Users/ginaguerin/Documents/Flatiron/CAPSTONE/resized lipsticks/IMG_4951.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>None</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>298</ymin>
+			<xmax>226</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized lipsticks</folder>
+	<filename>IMG_5028.JPG</filename>
+	<path>/Users/ginaguerin/Documents/Flatiron/CAPSTONE/resized lipsticks/IMG_5028.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Whirl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>200</ymin>
+			<xmax>286</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>

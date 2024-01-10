@@ -1,0 +1,38 @@
+<annotation>
+	<folder>resized lipsticks</folder>
+	<filename>IMG_4966.JPG</filename>
+	<path>/Users/ginaguerin/Documents/Flatiron/CAPSTONE/resized lipsticks/IMG_4966.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>None</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>269</ymin>
+			<xmax>308</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Crème D'Nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>271</ymin>
+			<xmax>306</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+</annotation>

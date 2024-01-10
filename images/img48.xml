@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized lipsticks</folder>
+	<filename>IMG_4994.JPG</filename>
+	<path>/Users/ginaguerin/Documents/Flatiron/CAPSTONE/resized lipsticks/IMG_4994.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Honey Love</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>267</ymin>
+			<xmax>252</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>
